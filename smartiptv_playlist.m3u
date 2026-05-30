@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch01" tvg-name="Channel 01" tvg-logo="https://img.oooooooooo192.com/RH3744SGG.jpg" group-title="Custom",Channel 01
+https://ch.oooooooooo192.com/6455769eb74e9644526fdf9c/fc0717/index.m3u8
+#EXTINF:-1 tvg-id="ch02" tvg-name="Channel 02" tvg-logo="https://img.oooooooooo192.com/RH2024RDU.jpg" group-title="Custom",Channel 02
+https://ch.oooooooooo192.com/645a0dd48a3d8d26c2d986b9/957bec/index.m3u8
+#EXTINF:-1 tvg-id="ch03" tvg-name="Channel 03" tvg-logo="https://img.oooooooooo192.com/RH4649JBD.jpg" group-title="Custom",Channel 03
+https://ch.oooooooooo192.com/645576914a73102cce9577d4/gfcaa8/index.m3u8
+#EXTINF:-1 tvg-id="ch04" tvg-name="Channel 04" tvg-logo="https://img.oooooooooo192.com/RH2093GTR.jpg" group-title="Custom",Channel 04
+https://ch.oooooooooo192.com/64557699b74e9644526fd94d/8aab78/index.m3u8
+#EXTINF:-1 tvg-id="ch05" tvg-name="Channel 05" tvg-logo="https://img.oooooooooo192.com/ZB100BGP.jpg" group-title="Custom",Channel 05
+https://ch.oooooooooo192.com/645933fcc9deb10a40f06a1c/f7731a/index.m3u8
+#EXTINF:-1 tvg-id="ch06" tvg-name="Channel 06" tvg-logo="https://img.oooooooooo192.com/DSP1786EPW.jpg" group-title="Custom",Channel 06
+https://ch.oooooooooo192.com/6455766cc00ce826e6b44674/962g15/index.m3u8
+#EXTINF:-1 tvg-id="ch07" tvg-name="Channel 07" tvg-logo="https://img.oooooooooo192.com/GC3520LXS.jpg" group-title="Custom",Channel 07
+https://ch.oooooooooo192.com/64557690b74e9644526fcce8/f8gac2/index.m3u8
+#EXTINF:-1 tvg-id="ch08" tvg-name="Channel 08" tvg-logo="https://img.oooooooooo192.com/OM2818JWX.jpg" group-title="Custom",Channel 08
+https://ch.oooooooooo192.com/6455768f4a73102cce9575e1/e34998/index.m3u8
